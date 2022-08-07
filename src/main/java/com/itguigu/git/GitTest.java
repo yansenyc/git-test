@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("测试");
         System.out.println("我这里修改了");
+        System.out.println("项目更新了");
     }
 }
